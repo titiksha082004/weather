@@ -28,7 +28,8 @@ The dashboard helps users explore temperature, rainfall, humidity, and other wea
 ---
 
 ## 📷 Dashboard Preview  
-![Dashboard Preview](images/dashboard-preview.png)  
+<img width="1182" height="655" alt="weather_2" src="https://github.com/user-attachments/assets/68640c88-f350-4846-ae2c-f232df5d7332" />
+  
 
 ---
 
